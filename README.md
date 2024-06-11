@@ -1,5 +1,5 @@
-# Login and Signup Screens
-This Flutter project offers a sleek and intuitive implementation of login and signup screens, designed for seamless integration with any mobile application to ensure secure user authentication.
+# Flutter Calculator App
+A simple and intuitive calculator app built with Flutter, featuring a sleek UI and basic arithmetic operations. Perfect for learning Flutter and Dart with practical application development.
 **It only consists of 2 screens.**
 
 Star⭐ the repo if you like what you see😉.
@@ -7,11 +7,11 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 ScreenShots
 
-<img src="assets/images/ScreenShoot.jpg"/>
+<img src="assets/images/Mobile Application Screen Shoot.jpg"/>
 
 
 ## ✨ Requirements
-* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any Operating System (ie. Android, IOS, MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
