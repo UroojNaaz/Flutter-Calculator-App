@@ -1,6 +1,5 @@
 # Flutter Calculator App
 A simple and intuitive calculator app built with Flutter, featuring a sleek UI and basic arithmetic operations. Perfect for learning Flutter and Dart with practical application development.
-**It only consists of 2 screens.**
 
 Star⭐ the repo if you like what you see😉.
 
